@@ -89,7 +89,7 @@ body {
 
 .button-container {
     width: 300px;
-    justify-content: center;
+    display: flex;
 }
 
 /* Estilos de entrada de texto */
@@ -159,4 +159,21 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+/* id para controlar el tamaño de la img restaurar */
+#tamano {
+    width: 20px;
+    height: 20px;
+}
+
+.button-reset {
+    border-radius: 100px;
+    background-color:mediumseagreen;
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+
+.button-reset:hover {
+    background-color:darkolivegreen;
 }
