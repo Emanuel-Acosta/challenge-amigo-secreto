@@ -1,4 +1,5 @@
 # Proyecto: Amigo Secreto
+![Captura de como se ve el HTML](img/captura1.png)
 
 Este proyecto es una implementación simple de la aplicación "Amigo Secreto". Permite a los usuarios ingresar los nombres de sus amigos, realizar un sorteo para elegir al ganador y reiniciar la lista de amigos cuando sea necesario.
 
